@@ -4,9 +4,9 @@
   
     
     <entry>
-      <title><![CDATA[Objective-C 中的“类”属性]]></title>
-      <url>http://Shirleey.github.io/2016/10/21/Objective-C-%E4%B8%AD%E7%9A%84%E2%80%9C%E7%B1%BB%E2%80%9D%E5%B1%9E%E6%80%A7/</url>
-      <content type="text"><![CDATA[it’s xiali blog]]></content>
+      <title><![CDATA[登陆注册流程]]></title>
+      <url>http://Shirleey.github.io/2016/11/04/%E7%99%BB%E9%99%86%E6%B3%A8%E5%86%8C%E6%B5%81%E7%A8%8B/</url>
+      <content type="text"><![CDATA[登录与注册的流程图，主要演示的是： 无出错前提下的登录流程 无出错前提下的注册流程 无出错前提下的找回密码流程 登录过程中密码连续输错三次账号被锁定的问题 注册与找回密码过程中验证码连续输错三次账号行为被暂时中止的问题 注册与找回密码过程中的验证码校验问题 注册与找回密码过程中的手机号码与密码格式的校验问题]]></content>
     </entry>
 
     
